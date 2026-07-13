@@ -1,15 +1,15 @@
 [
-  {
-    "name": "招財貓水晶發財樹工作坊",
-    "price": 268,
-    "image": "",
-    "description": "適合親子／學校／企業活動",
-    "duration": "60-90 分鐘",
-    "category": "新年",
-    "theme": "新年",
-    "audience": "親子",
-    "source": "https://hatoworkshop.com/products/%E6%8B%9B%E8%B2%A1%E8%B2%93%E6%B0%B4%E6%99%B6%E7%99%BC%E8%B2%A1%E6%A8%B9%E5%B7%A5%E4%BD%9C%E5%9D%8A"
-  },
+{
+  "name": "招財貓水晶發財樹工作坊",
+  "price": 268,
+  "image": "https://hatoworkshop.com/cdn/shop/files/4_9b6e8f2e-7426-43f7-a59c-615419341533.png?v=1776068516&width=1206",
+  "description": "適合親子／學校／企業活動",
+  "duration": "60-90 分鐘",
+  "category": "新年",
+  "theme": "新年",
+  "audience": "親子",
+  "source": "https://hatoworkshop.com/products/%E6%8B%9B%E8%B2%A1%E8%B2%93%E6%B0%B4%E6%99%B6%E7%99%BC%E8%B2%A1%E6%A8%B9%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+},
   {
     "name": "土耳其馬賽克玻璃燈工作坊",
     "price": 280,
