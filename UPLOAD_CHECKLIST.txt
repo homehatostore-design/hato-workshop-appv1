@@ -1,0 +1,9 @@
+Upload these files to GitHub repo root:
+- index.html
+- workshops.json
+- helper.json
+- README.txt
+- sync_hato.py
+- .github/workflows/sync.yml
+
+Then enable GitHub Pages on main branch / root.

@@ -1,0 +1,1 @@
+Upload index.html, workshops.json, helper.json to GitHub Pages repo root.

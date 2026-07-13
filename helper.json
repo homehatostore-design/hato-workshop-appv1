@@ -1,0 +1,52 @@
+[
+  {
+    "name": "中秋節紙雕燈籠工作坊",
+    "price": 280,
+    "category": "中秋",
+    "description": "流程：開場講稿、分配工作、導師人手、時間控制、準備事項、提醒事情、教學、講解PPT、工作坊音樂",
+    "duration": "60-90 分鐘",
+    "theme": "中秋",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E4%B8%AD%E7%A7%8B%E7%AF%80%E7%B4%99%E9%9B%95%E7%87%88%E7%B1%A0%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "中秋節宋錦珍珠畫工作坊",
+    "price": 268,
+    "category": "中秋",
+    "description": "流程：開場講稿、分配工作、導師人手、時間控制、準備事項、提醒事情、教學、講解PPT、工作坊音樂",
+    "duration": "60-90 分鐘",
+    "theme": "中秋",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%AE%8B%E9%8C%A6%E7%8F%8D%E7%8F%A0%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "中秋節竹編畫工作坊",
+    "price": 268,
+    "category": "中秋",
+    "description": "流程：開場講稿、分配工作、導師人手、時間控制、準備事項、提醒事情、教學、講解PPT、工作坊音樂",
+    "duration": "60-90 分鐘",
+    "theme": "中秋",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E4%B8%AD%E7%A7%8B%E7%AF%80%E7%AB%B9%E7%B7%A8%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "中秋節復古傳統燈籠工作坊",
+    "price": 268,
+    "category": "中秋",
+    "description": "流程：開場講稿、分配工作、導師人手、時間控制、準備事項、提醒事情、教學、講解PPT、工作坊音樂",
+    "duration": "60-90 分鐘",
+    "theme": "中秋",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E4%B8%AD%E7%A7%8B%E7%AF%80%E5%BE%A9%E5%8F%A4%E5%82%B3%E7%B5%B1%E7%87%88%E7%B1%A0%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "復活節扭扭棒工作坊",
+    "price": 188,
+    "category": "復活節",
+    "description": "流程：開場講稿、分配工作、導師人手、時間控制、準備事項、提醒事情、教學、講解PPT、工作坊音樂",
+    "duration": "45-60 分鐘",
+    "theme": "復活節",
+    "audience": "小朋友",
+    "source": "https://hatoworkshop.com/products/%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%89%AD%E6%89%AD%E6%A3%92%E6%89%8B%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  }
+]

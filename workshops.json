@@ -1,0 +1,101 @@
+[
+  {
+    "name": "招財貓水晶發財樹工作坊",
+    "price": 268,
+    "image": "",
+    "description": "適合親子／學校／企業活動",
+    "duration": "60-90 分鐘",
+    "category": "新年",
+    "theme": "新年",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E6%8B%9B%E8%B2%A1%E8%B2%93%E6%B0%B4%E6%99%B6%E7%99%BC%E8%B2%A1%E6%A8%B9%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "土耳其馬賽克玻璃燈工作坊",
+    "price": 280,
+    "image": "",
+    "description": "適合成人／團體活動",
+    "duration": "90-120 分鐘",
+    "category": "馬賽克",
+    "theme": "馬賽克",
+    "audience": "成人",
+    "source": "https://hatoworkshop.com/products/%E5%9C%9F%E8%80%B3%E5%85%B6%E9%A6%AC%E8%B3%BD%E5%85%8B%E7%8E%BB%E7%92%83%E7%87%88%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "中秋節紙雕燈籠工作坊",
+    "price": 280,
+    "image": "",
+    "description": "適合中秋節活動",
+    "duration": "60-90 分鐘",
+    "category": "中秋",
+    "theme": "中秋",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E4%B8%AD%E7%A7%8B%E7%AF%80%E7%B4%99%E9%9B%95%E7%87%88%E7%B1%A0%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "永生花相框畫工作坊",
+    "price": 198,
+    "image": "",
+    "description": "適合親子／節日／企業禮品活動",
+    "duration": "60-90 分鐘",
+    "category": "永生花",
+    "theme": "永生花",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E6%B0%B8%E7%94%9F%E8%8A%B1%E7%9B%B8%E6%A1%86%E7%95%AB%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "復活節扭扭棒工作坊",
+    "price": 188,
+    "image": "",
+    "description": "適合小朋友／親子活動",
+    "duration": "45-60 分鐘",
+    "category": "復活節",
+    "theme": "復活節",
+    "audience": "小朋友",
+    "source": "https://hatoworkshop.com/products/%E5%BE%A9%E6%B4%BB%E7%AF%80%E6%89%AD%E6%89%AD%E6%A3%92%E6%89%8B%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "萬聖節扭扭棒魔法棒工作坊",
+    "price": 180,
+    "image": "",
+    "description": "適合萬聖節活動",
+    "duration": "45-60 分鐘",
+    "category": "萬聖節",
+    "theme": "萬聖節",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E8%90%AC%E8%81%96%E7%AF%80%E6%89%AD%E6%89%AD%E6%A3%92%E9%AD%94%E6%B3%95%E6%A3%92%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "壓花相框工作坊",
+    "price": 198,
+    "image": "",
+    "description": "適合成人／學校活動",
+    "duration": "60-90 分鐘",
+    "category": "壓花",
+    "theme": "壓花",
+    "audience": "成人",
+    "source": "https://hatoworkshop.com/products/%E5%A3%93%E8%8A%B1%E7%9B%B8%E6%A1%86%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "馬賽克花瓶工作坊",
+    "price": 268,
+    "image": "",
+    "description": "適合成人／企業活動",
+    "duration": "90-120 分鐘",
+    "category": "馬賽克",
+    "theme": "馬賽克",
+    "audience": "成人",
+    "source": "https://hatoworkshop.com/products/%E9%A6%AC%E8%B3%BD%E5%85%8B%E8%8A%B1%E7%93%B6%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  },
+  {
+    "name": "微景觀盆栽鳳梨植物工作坊",
+    "price": 268,
+    "image": "",
+    "description": "適合親子／學校／企業活動",
+    "duration": "60-90 分鐘",
+    "category": "微景觀",
+    "theme": "微景觀",
+    "audience": "親子",
+    "source": "https://hatoworkshop.com/products/%E5%BE%AE%E6%99%AF%E8%A7%80%E7%9B%86%E6%A0%BD%E9%B3%B3%E6%A2%A8%E6%A4%8D%E7%89%A9%E5%B7%A5%E4%BD%9C%E5%9D%8A"
+  }
+]
